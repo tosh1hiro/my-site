@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "postcss styles/styles.css -o styles/dist.css",
+    "build": "next build",
     "lint": "next lint"
   },
   "dependencies": {
