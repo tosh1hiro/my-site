@@ -7,7 +7,7 @@ export default function Home() {
       <header>
         <div className='max-w-screen-lg mx-auto h-12 clear-both' style={{ position: 'relative', height: 100, width: '100%' }}>
           <div className='float-left' style={{ position: 'relative', height: '100%', width: 200 }}>
-            <Image src='/../public/images/logo.png' layout='fill' alt='ロゴ' />
+            <Image src='/../public/images/logo.PNG' layout='fill' alt='ロゴ' />
           </div>
           <div className='float-right top-1/2 bottom-1/2' style={{ position: 'relative', width: 'auto' }}>
             <ul className=' clear-both'>
